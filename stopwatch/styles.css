@@ -1,0 +1,40 @@
+
+html,body {
+    margin:0;
+    font-family: Arial;
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.stopwatch {
+    padding: 2%;
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.row > div {
+    justify-content: center;
+    flex:1;
+    text-align: center;
+}
+
+.btn {
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
