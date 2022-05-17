@@ -12,3 +12,6 @@ Raad de kleur
 
 Stopwatch
 - Een stopwatch in Javascript
+
+Memory
+- Maak een memory spel in Javascript
